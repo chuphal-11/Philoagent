@@ -1,0 +1,14 @@
+.env
+# API Keys & Secrets
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Data & Logs
+*.log
+.opik/
+.comet/

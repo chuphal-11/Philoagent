@@ -1,4 +1,3 @@
-.env
 # API Keys & Secrets
 .env
 
@@ -7,6 +6,9 @@ __pycache__/
 *.py[cod]
 venv/
 env/
+
+
+*.ipynb_checkpoints
 
 # Data & Logs
 *.log
